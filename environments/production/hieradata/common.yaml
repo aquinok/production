@@ -3,5 +3,5 @@
 motd::set_motd: |
                 Production - Please call x if something is going wrong
                 
-                All Connections are monitored and recorded
+                All connections are monitored and recorded
                 Disconnect IMMEDIATELY if you're not an authorized user
