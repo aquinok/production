@@ -1,9 +1,0 @@
-fixtures:
-  symlinks:
-    motd: "#{source_dir}"
-  repositories:
-    apt: "git@github.com:aquinok/puppet.git"
-  forge_modules:
-    stdlib:
-      repo: "puppetlabs/stdlib"
-      ref: "4.12.0"

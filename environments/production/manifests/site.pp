@@ -1,3 +1,3 @@
 node default {
-  class { 'motd': }
+  include puppet_motd
 }
