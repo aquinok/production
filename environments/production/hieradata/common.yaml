@@ -1,8 +1,0 @@
-# /etc/puppetlabs/code/production/hieradata/common.yaml
----
-puppet_motd::set_motd: |
-                       Production - Please call x if something is going wrong
-                
-                       All connections are monitored and recorded
-                       Disconnect IMMEDIATELY if you're not an authorized user
-
